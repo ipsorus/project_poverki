@@ -1,0 +1,1 @@
+pyuic5 MainWindow_poverki.ui -o MainWindow_poverki.py
